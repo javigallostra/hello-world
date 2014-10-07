@@ -6,3 +6,5 @@ Glamontone
 
 
 FGBIABNRVSMNROV
+
+Of course it is.
